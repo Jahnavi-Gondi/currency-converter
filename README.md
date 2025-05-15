@@ -1,10 +1,10 @@
 🌍 **Currency Converter Web App**
 
-📌 Project Overview
+📌** Project Overview**
 
 This is a simple and interactive Currency Converter web application that allows users to convert one currency to another using the latest exchange rates. The application leverages the Latest Currency API for real-time exchange rates.
 
-✨ Features
+✨** Features**
 
 🔄 Convert between multiple international currencies
 
@@ -16,7 +16,7 @@ This is a simple and interactive Currency Converter web application that allows 
 
 🏳️ Displays country flags based on the selected currency
 
-🛠️ Tech Stack
+🛠️** Tech Stack**
 
 HTML
 
@@ -26,7 +26,7 @@ JavaScript
 
 API: Latest Currency API
 
-🚀 How to Run the Project
+🚀** How to Run the Project**
 
 Clone the repository:
 
@@ -40,7 +40,7 @@ Open the index.html file in your browser:
 
 open index.html
 
-📂 Project Structure
+📂** Project Structure**
 
 index.html: Main structure of the web page
 
@@ -50,7 +50,7 @@ app.js: Core logic for currency conversion and API integration
 
 codes.js: Currency code and country code mapping
 
-📑 Acknowledgements
+📑 **Acknowledgements**
 
 Flags API for country flag images
 
