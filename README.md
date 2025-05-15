@@ -1,22 +1,22 @@
-Currency Converter Web App
+🌍 **Currency Converter Web App**
 
-Project Overview
+📌 Project Overview
 
 This is a simple and interactive Currency Converter web application that allows users to convert one currency to another using the latest exchange rates. The application leverages the Latest Currency API for real-time exchange rates.
 
-Features
+✨ Features
 
-Convert between multiple international currencies
+🔄 Convert between multiple international currencies
 
-Automatically sets USD to INR as the default conversion
+🌎 Automatically sets USD to INR as the default conversion
 
-Displays the exchange rate upon conversion
+💱 Displays the exchange rate upon conversion
 
-Responsive and easy-to-use interface
+📱 Responsive and easy-to-use interface
 
-Displays country flags based on the selected currency
+🏳️ Displays country flags based on the selected currency
 
-Tech Stack
+🛠️ Tech Stack
 
 HTML
 
@@ -26,11 +26,11 @@ JavaScript
 
 API: Latest Currency API
 
-How to Run the Project
+🚀 How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/Jahnavi-Gondi/currency-converter.git
 
 Open the project directory:
 
@@ -40,7 +40,7 @@ Open the index.html file in your browser:
 
 open index.html
 
-Project Structure
+📂 Project Structure
 
 index.html: Main structure of the web page
 
@@ -50,8 +50,11 @@ app.js: Core logic for currency conversion and API integration
 
 codes.js: Currency code and country code mapping
 
-Acknowledgements
+📑 Acknowledgements
 
 Flags API for country flag images
 
 Font Awesome for icons
+
+
+
